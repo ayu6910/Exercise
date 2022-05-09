@@ -6,7 +6,7 @@ public class Class3 {
 		// TODO Auto-generated method stub
 System.out.println("this is sample project test");
 System.out.println("this is sample project test");
-System.out.println("this is sample project test");
+
 	}
 
 }
