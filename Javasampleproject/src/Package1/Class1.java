@@ -8,7 +8,6 @@ public class Class1 {
 		System.out.println("Java first projectcoded");
 		System.out.println("Java first projectcoded");
 		System.out.println("Java first projectcoded");
-		System.out.println("Java first projectcoded");
 
 	}
 
